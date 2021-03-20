@@ -3,6 +3,11 @@ body {
     background-color: #eaf4fc
 }
 
+.titlephoto {
+    width: 100%;
+    padding-top: 50px;
+}
+
 .wrapper{
     width: 1000px;/*スマホならこれくらいかなあ*/
     margin: 0 auto;/*中央揃え*/
