@@ -21,8 +21,7 @@ p {
     display: inline-block;
     width: 100%;   
     font-family: serif;
-        
-                
+    font-weight: lighter;        
 
 }
 
@@ -91,4 +90,3 @@ footer p {
 .footerlogo{
     margin-top: 5px;
 }
-
