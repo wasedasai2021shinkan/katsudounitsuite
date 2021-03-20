@@ -17,12 +17,11 @@ h1 {
 }
 p {
     color: #17183B;
-    font-size:20px;
+    font-size:23px;
     display: inline-block;
     width: 100%;   
     font-family: serif;
-    font-weight: lighter;        
-
+    font-weight: lighter;
 }
 
 .wrapper{
