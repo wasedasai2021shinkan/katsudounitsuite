@@ -40,7 +40,9 @@ p {
    }
 
 
- 
+   .btn :hover {
+    opacity: 0.85;
+}
    
    .btn-box{
     width: 600px;
