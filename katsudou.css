@@ -2,7 +2,6 @@
 body {
     background-color: #eaf4fc
 }
-
 .titlephoto {
     width: 100%;
     padding-top: 50px;
@@ -39,10 +38,10 @@ p {
     font-family: serif;
    }
 
-
    .btn :hover {
     opacity: 0.85;
 }
+ 
    
    .btn-box{
     width: 600px;
@@ -98,3 +97,4 @@ footer p {
 .footerlogo{
     margin-top: 5px;
 }
+
